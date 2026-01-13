@@ -7,7 +7,7 @@ Sofeware Development
 I am a young programmer.
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [sattapongsnguansuk5@gmail.com](mailto:sattapongsnguansuk5@gmail.com)
+* ✉️  You can contact me at [satetapongs@gmail.com](mailto:satetapongs@gmail.com)
 * 🧠  I'm learning Ai , Data Analyst
 * 🤝  I'm open to collaborating on Ai
 
