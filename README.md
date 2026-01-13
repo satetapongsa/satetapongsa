@@ -1,43 +1,138 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is satetapong sanguansuk (WAVY)
-====================================================================================================================================
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="150" style="border-radius: 50%;" />
+  
+  <h1 align="center">Hi there, I'm <a href="https://github.com/satetapongsa" target="_blank">WAVY</a> 🌊</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Satetapong+Sanguansuk;Software+Developer;Data+Analyst+%26+AI+Enthusiast;Building+the+Future..." alt="Typing SVG" />
+  </a>
+</div>
 
-Sofeware Development
---------------------
+<div align="center">
+  <br>
+  
+  **" Transforming Coffee into Code & Data into Insights "**
+  
+  <br>
 
-I am a young programmer.
+  <a href="mailto:satetapongs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/manhideyi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/30694053/satetapong">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+   <a href="https://www.github.com/satetapongsa">
+    <img src="https://img.shields.io/github/followers/satetapongsa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
 
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [satetapongs@gmail.com](mailto:satetapongs@gmail.com)
-* 🧠  I'm learning Ai , Data Analyst
-* 🤝  I'm open to collaborating on Ai
+</div>
 
-<a href="https://www.github.com/satetapongsa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/satetapongsa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🚀 About Me
 
+- 🌍 I'm based in **Bangkok, Thailand**
+- 🧠 Currently diving deep into **AI & Data Analysis**
+- 💻 Passionate about **Software Development** & **Web3 Technologies**
+- 🤝 Open to collaborating on **AI Projects**
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
+---
 
+### 🛠 Tech Arsenal
 
-### Socials
+<table>
+  <tr>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td align="center" width="25%"><b>🌐 Web & Frameworks</b></td>
+    <td align="center" width="25%"><b>🗄️ Backend & DB</b></td>
+    <td align="center" width="25%"><b>⚙️ Tools & OS</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,swift,php&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,redux,html,css,flutter,wordpress&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,mongodb,firebase&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,neovim,figma&theme=dark" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" colspan="4"><b>⛓️ Web3 & Hardware</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://skillicons.dev/icons?i=solidity,arduino,raspberrypi&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <a href="https://www.github.com/satetapongsa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.instagram.com/manhideyi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/30694053/satetapong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+### 📊 Github Analytics
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=satetapongsa&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="satetapongsa trophies" />
+  </a>
+</div>
+<br>
 
-<a href="http://www.github.com/satetapongsa"><img src="https://github-readme-stats.vercel.app/api?username=satetapongsa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="satetapongsa's GitHub stats" /></a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=satetapongsa&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Stats" height="150" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satetapongsa&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Langs" height="150" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=satetapongsa&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Commit%20Time" alt="(Note: Requires WakaTime integration to show real data, currently a placeholder layout)" height="150"/>
+      </td>
+    </tr>
+  </table>
 
-<a href="http://www.github.com/satetapongsa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satetapongsa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <br>
 
-<a href="http://www.github.com/satetapongsa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=satetapongsa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satetapongsa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="95%" />
 
-<a href="https://github.com/satetapongsa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satetapongsa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <br><br>
 
-<b>Top Repositories</b>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=satetapongsa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" width="95%" />
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/satetapongsa/root2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=satetapongsa&repo=root2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+### 🏆 Pinned Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/satetapongsa/root2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=satetapongsa&repo=root2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/satetapongsa/YOUR-SECOND-REPO-NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=satetapongsa&repo=YOUR-SECOND-REPO-NAME&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MasterBrian99/MasterBrian99/main/wave.svg" width="100%" height="100px" style="max-width: 800px;">
+  <br>
+  <i>Let's build something amazing together.</i>
+</div>
