@@ -33,11 +33,10 @@
 ---
 
 ### 🚀 About Me
-
 - 🌍 I'm based in **Bangkok, Thailand**
 - 🧠 Currently diving deep into **AI & Data Analysis**
 - 💻 Passionate about **Software Development** & **Web3 Technologies**
-- 🤝 Open to collaborating on **AI Projects**
+- 🤝 Open to collaborating on **AI Projects** "computer engineering"
 
 ---
 
