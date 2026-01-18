@@ -12,7 +12,7 @@
   <a href="mailto:satetapongs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/satetapong-sanguansuk/">
+  <a href="https://www.linkedin.com/in/satetapong-sanguansuk-a5a539389/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/manhideyi/">
@@ -23,7 +23,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satetapongsa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br />
@@ -83,23 +83,23 @@ Here is the complete list of technologies I command, categorized for precision.
 ### 📊 **Github Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satetapongsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satetapongsa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satetapongsa&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satetapongsa&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 ---
 
 <div align="center">
   <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet&label=VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=satetapongsa&style=flat-square&color=blueviolet&label=VISITORS" alt="Profile Views" />
 </div>
