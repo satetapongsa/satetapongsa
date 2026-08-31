@@ -30,17 +30,17 @@
 
 ---
 
-### 🚀 **About Me**
+###  **About Me**
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
 
 I am a **3rd Year Computer Engineering Student** based in **Bangkok, Thailand** 🇹🇭. My passion lies in bridging the gap between hardware, network infrastructure, and high-level software development.
 
-- 🔭 **Currently working on:** Advanced Network Security (FortiGate/MikroTik) & Mobile Banking Simulations.
-- 🧠 **Deep diving into:** AI, Data Analysis & Web3 Technologies (Solidity).
-- 🛡️ **Specialized in:** Network Configurations, Ethical Hacking (SQL Injection), and Secure Architectures.
-- 🤝 **Collaboration:** Open to collaborating on **AI Projects** and **Computer Engineering** research.
-- ⚡ **Fun fact:** I can configure a VLAN while deploying a Smart Contract.
+-  **Currently working on:** Advanced Network Security (FortiGate/MikroTik) & Mobile Banking Simulations.
+-  **Deep diving into:** AI, Data Analysis & Web3 Technologies (Solidity).
+-  **Specialized in:** Network Configurations, Ethical Hacking (SQL Injection), and Secure Architectures.
+-  **Collaboration:** Open to collaborating on **AI Projects** and **Computer Engineering** research.
+-  **Fun fact:** I can configure a VLAN while deploying a Smart Contract.
 
 ---
 
