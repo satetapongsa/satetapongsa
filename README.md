@@ -44,7 +44,7 @@ I am a **3rd Year Computer Engineering Student** based in **Bangkok, Thailand** 
 
 ---
 
-### 🛠️ **Tech Arsenal (God-Tier)**
+###  **Tech Arsenal (God-Tier)**
 
 Here is the complete list of technologies I command, categorized for precision.
 
@@ -53,22 +53,22 @@ Here is the complete list of technologies I command, categorized for precision.
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,swift,php,html,css,solidity" />
 </div>
 
-#### **🌐 Web Frameworks & Mobile**
+#### ** Web Frameworks & Mobile**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,nextjs,flutter,wordpress,tailwind,bootstrap" />
 </div>
 
-#### **⚙️ Backend, Database & Cloud**
+#### ** Backend, Database & Cloud**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,fastify,mysql,mongodb,firebase,postgres,vercel,supabase" />
 </div>
 
-#### **🔧 Tools, DevOps & OS**
+#### ** Tools, DevOps & OS**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,neovim,figma,ubuntu" />
 </div>
 
-#### **🔌 Network & Hardware (Engineering Special)**
+#### ** Network & Hardware (Engineering Special)**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-28A745?style=flat&logo=mikrotik&logoColor=white&height=40" height="40" />
@@ -80,7 +80,7 @@ Here is the complete list of technologies I command, categorized for precision.
 
 ---
 
-### 📊 **Github Analytics**
+###  **Github Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satetapongsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
