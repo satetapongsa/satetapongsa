@@ -22,12 +22,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satetapongsa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br />
-
 ---
 
 ###  **About Me**
@@ -83,19 +77,14 @@ Here is the complete list of technologies I command, categorized for precision.
 ###  **Github Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satetapongsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satetapongsa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satetapongsa&theme=tokyonight" />
-</div>
+</div><br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satetapongsa&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
+
 
 ---
 
