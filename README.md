@@ -34,13 +34,13 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" />
 
-I am a **3rd Year Computer Engineering Student** based in **Bangkok, Thailand** 🇹🇭. My passion lies in bridging the gap between hardware, network infrastructure, and high-level software development.
+I am a **4th-Year Computer Engineering Student at Sripatum University, based in Bangkok, Thailand 🇹🇭. My passion lies in bridging the gap between robust software engineering and highly intuitive user experiences. I focus on writing concise, to-the-point, and high-performance code without unnecessary complexity.
 
--  **Currently working on:** Advanced Network Security (FortiGate/MikroTik) & Mobile Banking Simulations.
--  **Deep diving into:** AI, Data Analysis & Web3 Technologies (Solidity).
--  **Specialized in:** Network Configurations, Ethical Hacking (SQL Injection), and Secure Architectures.
--  **Collaboration:** Open to collaborating on **AI Projects** and **Computer Engineering** research.
--  **Fun fact:** I can configure a VLAN while deploying a Smart Contract.
+-  **Currently working on:** Automated CI/CD pipelines, modern web ecosystems, and Project Antigravity.
+-  **Deep diving into:** Advanced Full-Stack development (React, Next.js, Node.js) and practical AI technology integrations.
+-  **Specialized in:** Scalable web architectures, backend logic optimization, and Web & App UX/UI design.
+-  **Collaboration:** Open to collaborating on Full-Stack applications, AI-driven projects, and tech community initiatives.
+-  **Fun fact:** I can wireframe a seamless UI prototype while simultaneously architecting a backend database structure.
 
 ---
 
